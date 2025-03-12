@@ -1,8 +1,5 @@
 
-1çevrimdışı kullanım
-2uygun fiyatlı
-
-3çoğu platforma uyumlu
-
-
-4arayüzü göze hitap ediyor
+1) Çevrimdışı Kullanım
+2) Uygun Fiyatlı
+3) Çoğu Platforma Uyumlu
+4) Arayüzü göze hitap ediyor
